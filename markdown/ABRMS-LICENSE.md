@@ -10,8 +10,7 @@ In the unlikely event that you happen to make a zillion bucks off of
 this, then good for you; consider buying a homeless person a meal.
 
 
-Exception
----------
-
+>**Exception**
+>
 >Richard M Stallman (the guy behind GNU, etc.) may not make use of or
 redistribute this program or any of its derivatives.
